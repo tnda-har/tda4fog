@@ -1,3 +1,7 @@
 # tda4fog
 
 The dataset can be accessed in the UCI Machine Learning repository.
+
+Dataset localtion:../dataset_fog_release/dataset
+
+MAKE DIRECTORIES FOR DATASET FIRST.
